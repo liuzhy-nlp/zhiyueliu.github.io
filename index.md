@@ -63,5 +63,5 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
   arXiv preprint arXiv:2002.04815.
 
-### Professional Activities
+### Academic Services
 * Reviewer: AAAI 2020, AAAI 2021, ECML-PKDD 2021, ACL Rolling Review
