@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+### About Me
+I am a forth-year Ph.D. student in the [School of Computer Science and Engineering](http://cse.sysu.edu.cn/) at [Sun Yat-sen University](http://www.sysu.edu.cn/),  advised by Prof. [Jiahai Wang](http://cse.sysu.edu.cn/content/2551).
 
-You can use the [editor on GitHub](https://github.com/liuzhy-nlp/zhiyueliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests 
+* Natural Language Processing
+* Text Generation
+* Deep Learning
 
-### Markdown
+### Education
+* **2018-2022,**    Ph.D., Sun Yat-Sen University, [School of Computer Science and Engineering](http://cse.sysu.edu.cn/). Advisor: Prof. [Jiahai Wang](http://cse.sysu.edu.cn/content/2551)
+* **2015-2018,**    M.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/). Advisor: Prof. [Dong Song](https://teacher.nwpu.edu.cn/songdong.html)
+* **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
+* **Liu, Z**., Wang, J., & Li, Z. (2021). Topic-to-Essay Generation with Comprehensive Knowledge Enhancement. 
 
-```markdown
-Syntax highlighted code block
+  In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 302-318. 
 
-# Header 1
-## Header 2
-### Header 3
+* Du, X., Wang, J., Chen, S., & **Liu, Z**. (2021). Multi-agent Deep Reinforcement Learning with Spatio-Temporal Feature Fusion for Traffic Signal Control.
 
-- Bulleted
-- List
+  In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 470-485. 
 
-1. Numbered
-2. List
+* **Liu, Z**., & Wang, J. (2021). A Cooperative Framework with Generative Adversarial Networks and Entropic Auto-Encoders for Text Generation.
 
-**Bold** and _Italic_ and `Code` text
+  In International Joint Conference on Neural Networks, 1-8. 
 
-[Link](url) and ![Image](src)
-```
+* **Liu, Z**., Wang, J., & Liang, Z. (2020). CatGAN: Category-Aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  In the AAAI Conference on Artificial Intelligence, 34(05), 8425-8432. 
 
-### Jekyll Themes
+* **Liu, Z**., Wang, J., Du, X., Rao, Y., & Quan, X. (2020). GSMNet: Global Semantic Memory Network for Aspect-Level Sentiment Classification.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuzhy-nlp/zhiyueliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  In IEEE Intelligent Systems, 36(05), 122-130. 
 
-### Support or Contact
+* Jiang, T., Wang, J., **Liu, Z**., & Ling, Y. (2020). Fusion-Extraction Network for Multimodal Sentiment Analysis.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  In Advances in Knowledge Discovery and Data Mining: Pacific-Asia Conference, 785–797. 
+
+* Liu, C., **Liu, Z**., Wang, J., & Zhou, Y. (2020). Template-Enhanced Aspect Term Extraction with Bi-Contextual Convolutional Neural Networks.
+
+  In International Conference on Neural Computing for Advanced Applications, 475-487. 
+
+* Song, Y., Wang, J., Jiang, T., **Liu, Z**., & Rao, Y. (2019). Targeted sentiment classification with attentional encoder network.
+
+  In International Conference on Artificial Neural Networks, 93-103. 
+
+* Gao, Z., Ma, C., Luo, Y., & **Liu, Z**. (2018). IMA Health State Evaluation Using Deep Feature Learning with Quantum Neural Network.
+
+  In Engineering Applications of Artificial Intelligence, 76, 119-129.
+
+* Lin, B., Song, D., & **Liu, Z**. (2018). A Model of Aircraft Support Concept Evaluation Based on DEA and PCA.
+
+  In Journal of Systems Science and Information, 6(6), 563-576.
+
+* **刘志越**, 宋东, 屈娟. (2017). 基于逻辑方程的飞机中央维护系统实时故障诊断方法.
+
+  测控技术, 36(08), 51-54.
+
+### Preprints
+* Song, Y., Wang, J., Liang, Z., **Liu, Z**., & Jiang, T. (2020). Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference.
+
+  arXiv preprint arXiv:2002.04815.
+
+### Professional Activities
+* Reviewer: AAAI 2020, AAAI 2021, ECML-PKDD 2021, ACL Rolling Review
