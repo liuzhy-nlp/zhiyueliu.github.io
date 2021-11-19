@@ -40,4 +40,5 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 * Song, Y., Wang, J., Liang, Z., **Liu, Z**., & Jiang, T. (2020). Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference.<br>arXiv preprint arXiv:2002.04815.
 
 ### Professional Activities
-* Reviewer: AAAI 2020, AAAI 2021, ECML-PKDD 2021, ACL Rolling Review
+* Conference Reviewer: AAAI 2020, AAAI 2021, ECML-PKDD 2021, ACL Rolling Review
+* Journal Reviewer: The Computer Journal
