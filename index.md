@@ -28,14 +28,14 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
   
 * Liu, C., **Liu, Z**., Wang, J., & Zhou, Y. (2020). Template-Enhanced Aspect Term Extraction with Bi-Contextual Convolutional Neural Networks.<br>In International Conference on Neural Computing for Advanced Applications, 475-487. 
   
+* Li, Y., Song, D., **Liu, Z**., & Cao, Y. (2020). IMA System Health Assessment Method Based on Incremental Random Forest.<br>In Information Technology and Intelligent Transportation Systems, 193-201.
+  
 * Song, Y., Wang, J., Jiang, T., **Liu, Z**., & Rao, Y. (2019). Targeted sentiment classification with attentional encoder network.<br>In International Conference on Artificial Neural Networks, 93-103. 
   
 * Gao, Z., Ma, C., Luo, Y., & **Liu, Z**. (2018). IMA Health State Evaluation Using Deep Feature Learning with Quantum Neural Network.<br>In Engineering Applications of Artificial Intelligence, 76, 119-129.
   
 * Lin, B., Song, D., & **Liu, Z**. (2018). A Model of Aircraft Support Concept Evaluation Based on DEA and PCA.<br>In Journal of Systems Science and Information, 6(6), 563-576.
   
-* **刘志越**, 宋东, 屈娟. (2017). 基于逻辑方程的飞机中央维护系统实时故障诊断方法.<br>测控技术, 36(08), 51-54.
-
 ### Preprints
 * Song, Y., Wang, J., Liang, Z., **Liu, Z**., & Jiang, T. (2020). Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference.<br>arXiv preprint arXiv:2002.04815.
 
