@@ -22,23 +22,23 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
   
 * **Liu, Z**., Wang, J., & Liang, Z. (2020). CatGAN: Category-Aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation.<br>In the AAAI Conference on Artificial Intelligence, 34(05), 8425-8432. 
   
-* **Liu, Z**., Wang, J., Du, X., Rao, Y., & Quan, X. (2020). GSMNet: Global Semantic Memory Network for Aspect-Level Sentiment Classification.<br>In IEEE Intelligent Systems, 36(05), 122-130. 
+* **Liu, Z**., Wang, J., Du, X., Rao, Y., & Quan, X. (2020). GSMNet: Global Semantic Memory Network for Aspect-Level Sentiment Classification.<br>IEEE Intelligent Systems, 36(05), 122-130. 
   
-* Jiang, T., Wang, J., **Liu, Z**., & Ling, Y. (2020). Fusion-Extraction Network for Multimodal Sentiment Analysis.<br>In Advances in Knowledge Discovery and Data Mining: Pacific-Asia Conference, 785–797. 
+* Jiang, T., Wang, J., **Liu, Z**., & Ling, Y. (2020). Fusion-Extraction Network for Multimodal Sentiment Analysis.<br>In Advances in Knowledge Discovery and Data Mining: 24th Pacific-Asia Conference, 785–797. 
   
 * Liu, C., **Liu, Z**., Wang, J., & Zhou, Y. (2020). Template-Enhanced Aspect Term Extraction with Bi-Contextual Convolutional Neural Networks.<br>In International Conference on Neural Computing for Advanced Applications, 475-487. 
   
-* Li, Y., Song, D., **Liu, Z**., & Cao, Y. (2020). IMA System Health Assessment Method Based on Incremental Random Forest.<br>In Information Technology and Intelligent Transportation Systems, 193-201.
+* Li, Y., Song, D., **Liu, Z**., & Cao, Y. (2020). IMA System Health Assessment Method Based on Incremental Random Forest.<br>Information Technology and Intelligent Transportation Systems, 193-201.
   
 * Song, Y., Wang, J., Jiang, T., **Liu, Z**., & Rao, Y. (2019). Targeted sentiment classification with attentional encoder network.<br>In International Conference on Artificial Neural Networks, 93-103. 
   
-* Gao, Z., Ma, C., Luo, Y., & **Liu, Z**. (2018). IMA Health State Evaluation Using Deep Feature Learning with Quantum Neural Network.<br>In Engineering Applications of Artificial Intelligence, 76, 119-129.
+* Gao, Z., Ma, C., Luo, Y., & **Liu, Z**. (2018). IMA Health State Evaluation Using Deep Feature Learning with Quantum Neural Network.<br>Engineering Applications of Artificial Intelligence, 76, 119-129.
   
-* Lin, B., Song, D., & **Liu, Z**. (2018). A Model of Aircraft Support Concept Evaluation Based on DEA and PCA.<br>In Journal of Systems Science and Information, 6(6), 563-576.
+* Lin, B., Song, D., & **Liu, Z**. (2018). A Model of Aircraft Support Concept Evaluation Based on DEA and PCA.<br>Journal of Systems Science and Information, 6(6), 563-576.
   
 ### Preprints
 * Song, Y., Wang, J., Liang, Z., **Liu, Z**., & Jiang, T. (2020). Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference.<br>arXiv preprint arXiv:2002.04815.
 
 ### Professional Activities
 * Conference Reviewer: AAAI 2020, AAAI 2021, ECML-PKDD 2021, ACL Rolling Review
-* Journal Reviewer: The Computer Journal
+* Journal Reviewer: IEEE Transactions, The Computer Journal, Expert Systems with Applications
