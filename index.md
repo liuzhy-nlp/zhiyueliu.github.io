@@ -1,5 +1,5 @@
 ### About Me
-I am a forth-year Ph.D. student in the [School of Computer Science and Engineering](http://cse.sysu.edu.cn/) at [Sun Yat-sen University](http://www.sysu.edu.cn/),  advised by Prof. [Jiahai Wang](http://cse.sysu.edu.cn/content/2551).
+I received the Ph.D. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/).
 
 Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
@@ -24,7 +24,7 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
   
 * **Liu, Z**., & Wang, J. (2021). A Cooperative Framework with Generative Adversarial Networks and Entropic Auto-Encoders for Text Generation.<br>In International Joint Conference on Neural Networks. 
   
-* **Liu, Z**., Wang, J., & Liang, Z. (2020). CatGAN: Category-Aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation.<br>In the AAAI Conference on Artificial Intelligence. 
+* **Liu, Z**., Wang, J., & Liang, Z. (2020). CatGAN: Category-Aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation.<br>In AAAI Conference on Artificial Intelligence. 
   
 * **Liu, Z**., Wang, J., Du, X., Rao, Y., & Quan, X. (2020). GSMNet: Global Semantic Memory Network for Aspect-Level Sentiment Classification.<br>IEEE Intelligent Systems. 
   
