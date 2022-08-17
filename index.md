@@ -1,5 +1,5 @@
 ### About Me
-I received the Ph.D. degree from [Sun Yat-sen University](http://www.sysu.edu.cn/).
+I received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
 
 Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
