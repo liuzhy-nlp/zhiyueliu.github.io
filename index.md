@@ -18,7 +18,7 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
 * **Liu, Z**., Wang, Z., & Wang, J. (2022). A Coarse-to-Fine Training Paradigm for Dialogue Summarization. <br>In International Conference on Artificial Neural Networks. 
 
-* Du, X., Chen, S., **Liu, Z**., & Wang, J. (2021). Multiple Userids Identification with Deep Learning.<br>Expert Systems with Applications.
+* Du, X., Chen, S., **Liu, Z**., & Wang, J. (2022). Multiple Userids Identification with Deep Learning.<br>Expert Systems with Applications.
 
 * **Liu, Z**., Wang, J., & Li, Z. (2021). Topic-to-Essay Generation with Comprehensive Knowledge Enhancement. <br>In Joint European Conference on Machine Learning and Knowledge Discovery in Databases. 
   
