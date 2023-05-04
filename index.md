@@ -14,7 +14,7 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
-* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. In Annual Meeting of the Association for Computational Linguistics (*equal contribution). 
+* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (*equal contribution). 
 
 * Zheng, X., **Liu, Z**., Zhang, Z., Wang, Z., & Wang, J. (2022). UECA-Prompt: Universal Prompt for Emotion Cause Analysis.<br>In International Conference on Computational Linguistics. 
 
