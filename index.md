@@ -49,4 +49,4 @@ Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
 ### Academic Services
 * Conference Reviewer: AAAI, ECML-PKDD, ACL Rolling Review
-* Journal Reviewer: IEEE Transactions, The Computer Journal, Expert Systems with Applications
+* Journal Reviewer: IEEE Transactions, The Computer Journal, Expert Systems with Applications, Machine Learning
