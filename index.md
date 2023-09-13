@@ -3,9 +3,9 @@ I received the Ph.D. degree in computer science from [Sun Yat-sen University](ht
 
 Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
-I received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/)
+I received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
 
-[Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f46f-4f05-a6f9-ed907b652c97)
+Visit my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f46f-4f05-a6f9-ed907b652c97).
 
 ### Research Interests 
 * Natural Language Processing
