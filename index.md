@@ -3,8 +3,6 @@ I received the Ph.D. degree in computer science from [Sun Yat-sen University](ht
 
 Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
 
-I received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
-
 Visit my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f46f-4f05-a6f9-ed907b652c97).
 
 ### Research Interests 
@@ -54,5 +52,5 @@ Visit my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd
 * Song, Y., Wang, J., Liang, Z., **Liu, Z**., & Jiang, T. (2020). Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference.<br>arXiv preprint arXiv:2002.04815.
 
 ### Academic Services
-* Conference Reviewer: AAAI, ECML-PKDD, ACL Rolling Review
+* Conference Reviewer: AAAI, ACL, CVPR, ECML-PKDD, ACL Rolling Review
 * Journal Reviewer: IEEE Transactions, The Computer Journal, Expert Systems with Applications, Machine Learning
