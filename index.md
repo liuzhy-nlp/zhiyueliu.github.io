@@ -1,9 +1,9 @@
 ### About Me
 I received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
 
-Contact E-mail: [liuzhy93@mail2.sysu.edu.cn](mailto:liuzhy93@mail2.sysu.edu.cn).
+Contact E-mail: liuzhy [at] gxu.edu.cn or liuzhy93 [at] mail2.sysu.edu.cn.
 
-See my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f46f-4f05-a6f9-ed907b652c97).
+For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f46f-4f05-a6f9-ed907b652c97).
 
 ### Research Interests 
 * Natural Language Processing
@@ -16,6 +16,8 @@ See my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
+* **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence. 
+
 * Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (*equal contribution).
 
 * Lei, N., Cai, J., Qian, Y., Zheng, Z., Han, C., **Liu, Z**., & Huang, Q. (2023). A Two-Stage Chinese Medical Video Retrieval Framework with LLM. <br>In CCF International Conference on Natural Language Processing and Chinese Computing.
