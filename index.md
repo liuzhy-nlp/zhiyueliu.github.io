@@ -1,5 +1,5 @@
 ### About Me
-I received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
+Zhiyue Liu is currently an Assistant Professor in Guangxi University. He received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
 
 Contact E-mail: liuzhy [at] gxu.edu.cn or liuzhy93 [at] mail2.sysu.edu.cn.
 
@@ -8,7 +8,7 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 ### Research Interests 
 * Natural Language Processing
 * Text Generation
-* Deep Learning
+* Multimodal Learning
 
 ### Education
 * **2018-2022,**    Ph.D., Sun Yat-Sen University, [School of Computer Science and Engineering](http://cse.sysu.edu.cn/). Advisor: Prof. [Jiahai Wang](http://cse.sysu.edu.cn/content/2551)
