@@ -16,7 +16,9 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
-* **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence. 
+* **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence.
+
+* **Liu, Z**., & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing. 
 
 * Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (*equal contribution).
 
